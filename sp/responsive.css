@@ -1,0 +1,270 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width:899px){
+
+}
+
+@media screen and (max-width:767px){
+
+}
+
+@media screen and (max-width:639px){
+.visible-sp{
+	display:block;
+}
+.hidden-sp{
+	display:none;
+}
+body{
+	width: 100%;
+}
+.logo{
+
+    padding: 18% 0 7px;
+}
+.title1 img{
+	width: 25%;
+}
+#menu a {
+    font-size: 18px;
+}
+#menu li span:nth-child(1) {
+    font-size: 14px;
+}
+.title2 img{
+	width: 37%;
+}
+.diary-in {
+    padding: 28px 20px 0;
+}
+.diary-txt {
+    font-size: 15px;
+}
+.con-btn img{
+	width: 90%;
+	margin: 0 auto;
+}
+.title3 img{
+	width: 35%;
+}
+.event-img {
+    margin-right: 5%;
+}
+.event-desc {
+    width: 66%;
+}
+.e-desc1 {
+    font-size: 15px;
+}
+.e-desc2 {
+    margin-top: 15px;
+}
+.e-desc2 a {
+    font-size: 18px;
+    padding: 10px 30px 7px;
+}
+.events {
+    padding: 25px 20px 0px;
+}
+.event{
+    margin-bottom: 15px;
+}
+.title4 img{
+	width: 38%;
+}
+.constructions {
+    padding: 28px 20px 10px;
+}
+.con-desc {
+    font-size: 15px;
+    padding: 12px 0 0px;
+}
+#construction {
+    padding: 40px 0 0px;
+}
+.title5 img{
+	width: 68%;
+}
+.reforms {
+    padding: 20px 20px;
+}
+#customer-voice {
+    padding: 40px 0 20px;
+}
+.title6 img{
+	width: 60%;
+}
+
+.title7 img{
+	width: 47%;
+	padding-bottom:3%;	
+}
+.voices {
+    padding: 20px;
+}
+.voice{
+	font-size: 14px;
+}
+.map{
+	width: 46%;
+}
+.logo2{
+	width: 48%;
+}
+.about-txt{
+	font-size: 14px;
+}
+.tel {
+    padding: 20px 20px;
+}
+.voice{
+    margin-bottom: 15px;
+}
+.v-desc{
+    margin-top: 10px;
+}
+}
+@media screen and (max-width:500px){
+.visible-500{
+	display:block;
+}
+.hidden-500{
+	display:none;
+}
+#introduction {
+    padding: 30px 0;
+}
+#menu a {
+    font-size: 16px;
+    background-size: 16px;
+    padding: 0 30px;
+		display: block;
+}
+#menu>ul>li {
+    padding: 17px 0 11px;
+}
+#menu li span:nth-child(1) {
+    font-size: 12px;
+}
+#menu .comList01 li {
+    padding: 0 20px;
+}
+#menu .comList li a {
+    font-size: 12px;
+    padding: 16px 0;
+}
+.img1 {
+    padding: 30px 0 0px;
+}
+#field-diary {
+    padding: 30px 0 0px;
+}
+
+#enquete {
+    padding: 30px 0 0px;
+}
+
+.diary-in {
+    padding: 20px 10px 0px;
+}
+.diary-txt {
+    font-size: 12px;
+}
+.img3 {
+    margin: 25px 0 30px;
+}
+.e-desc1 {
+    font-size: 12px;
+}
+.e-desc2 a {
+    font-size: 14px;
+    padding: 8px 25px 5px;
+}
+.events {
+    padding: 20px 10px 0px;
+}
+.event{
+    margin-bottom: 10px;
+}
+#event {
+    margin-bottom: 10px;
+}
+#construction {
+    padding: 30px 0 0;
+}
+.constructions {
+    padding: 20px 10px 0px;
+}
+.reforms {
+    padding: 20px 10px;
+}
+.tel {
+    padding: 20px 10px;
+}
+#customer-voice {
+    padding: 30px 0 0 0;
+}
+.voices {
+    padding: 20px 10px 10px 10px;
+}
+.voice{
+	font-size: 12px;
+    margin-bottom: 10px;
+}
+.v-desc{
+    margin-top: 5px;
+}
+.about-txt {
+    font-size: 10px;
+}
+#about {
+    padding: 20px 10px 15px;
+}
+.footer {
+    font-size: 12px;
+}
+.footer-img {
+    width: 30px;
+    margin: 0 auto;
+    margin-bottom: -15px;
+}
+.construction h4 {
+    font-size: 15px;
+    margin-top: 10px;
+}
+.construction p{
+    font-size: 12px;
+}
+
+.construction .more{
+    margin-bottom: 10px;
+}
+.title1{
+    border-bottom: 1px solid #000;
+}
+.title2{
+    border-bottom: 1px solid #000;
+}
+.title3{
+    border-bottom: 1px solid #000;
+}
+.title4{
+    border-bottom: 1px solid #000;
+}
+.title5{
+    border-bottom: 1px solid #000;
+}
+.title6{
+    border-bottom: 1px solid #000;
+}
+
+.title7{
+    border-bottom: 1px solid #000; margin-bottom:5%;
+}
+
+}
+
+@media screen and (max-width:350px){
+
+}
